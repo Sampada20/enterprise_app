@@ -6,7 +6,7 @@ Powerful Software
 
 ### Welcome to the repository
 
-I am creating this app in hopes of learning about creating **rails projects**.Feel free to access[my portfolio]()
+I am creating this app in hopes of learning about creating **rails projects**.Feel free to access [my portfolio](https://github.com/Sampada20)
 
 >Rails is a web application development framework written in the Ruby language. It is designed to make programming web applications easier by making assumptions about what every developer needs to get started. It allows you to write less code while accomplishing more than many other languages and frameworks. Experienced Rails developers also report that it makes web application development more fun.
 
